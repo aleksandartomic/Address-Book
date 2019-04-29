@@ -31,6 +31,7 @@ namespace WpfAppContacts
             InitializeComponent();
             Load();
             this.DataContext = this;
+            int a;
         }
 
         private void Load()
